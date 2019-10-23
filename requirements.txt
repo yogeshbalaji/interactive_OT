@@ -5,3 +5,4 @@ POT
 matplotlib
 plotly==4.1.0
 ipywidgets
+nglview
