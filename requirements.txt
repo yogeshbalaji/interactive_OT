@@ -1,0 +1,7 @@
+jupyterlab
+numpy
+cython
+POT
+matplotlib
+plotly==4.1.0
+ipywidgets
